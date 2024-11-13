@@ -29,8 +29,8 @@ function showData(data) {
     document.getElementById('jum1tit2').textContent = data.jumbotron.jumbotron1.title2
     document.getElementById('jum1par1').textContent = data.jumbotron.jumbotron1.para1
     document.getElementById('jum1par2').textContent = data.jumbotron.jumbotron1.para2
-    document.getElementById('jum1link').href = data.jumbotron.jumbotron1.link
-    document.getElementById('jum1link').textContent = data.jumbotron.jumbotron1.btcap
+    // document.getElementById('jum1link').href = data.jumbotron.jumbotron1.link
+    // document.getElementById('jum1link').textContent = data.jumbotron.jumbotron1.btcap
 
     //jum center
     // document.getElementById('jum2tit1').textContent = data.jumbotron.jumbotron2.title1
