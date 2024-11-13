@@ -170,19 +170,19 @@ section {
 }
 .navbar-default .navbar-brand {
 	background-image: url(../img/ASIX2.png);
-	background-size: 167px 53px
+	background-size: 100% 100%
 }
 .navbar-shrink .navbar-brand {
 	background-image: url(../img/ASIX2.png);
-	background-size: 167px 53px
+	background-size: 100% 100%
 }
 .navbar-transparent .navbar-brand {
 	background-image: url(../img/ASIX2.png);
-	background-size: 167px 53px
+	background-size: 100% 100%
 }
 .navbar-inverse .navbar-brand {
 	background-image: url(../img/ASIX2.png);
-	background-size: 167px 53px
+	background-size: 100% 100%
 }
 
 /* Navbar links */
