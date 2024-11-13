@@ -169,19 +169,19 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url(../img/ASIX.jpg);
+	background-image: url(../img/ASIX2.png);
 	background-size: 167px 53px
 }
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/ASIX.jpg);
+	background-image: url(../img/ASIX2.png);
 	background-size: 167px 53px
 }
 .navbar-transparent .navbar-brand {
-	background-image: url(../img/ASIX.jpg);
+	background-image: url(../img/ASIX2.png);
 	background-size: 167px 53px
 }
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/ASIX.jpg);
+	background-image: url(../img/ASIX2.png);
 	background-size: 167px 53px
 }
 
