@@ -1,0 +1,282 @@
+{
+    "menu": {
+        "menu1": "Home",
+        "menu2": "About",
+        "menu3": "Services",
+        "menu4": "Kebijakan Privasi",
+        "menu5": "Works",
+        "menu6": "CONTACT US"
+    },
+    "jumbotron": {
+        "jumbotron1": {
+            "title1": "Thriving with You in the",
+            "title2": "Digital Age throught AI Solutions",
+            "para1": "Innovative AI technologies to revolutionize your business",
+            "para2": "",
+            "link": "#",
+            "btcap": "CONTACT US"
+        },
+        "jumbotron2": {
+            "title1": "Join with us",
+            "title2": "",
+            "para1": "To the greatest Journey",
+            "para2": "",
+            "link": "#",
+            "btcap": "Contact US"
+
+        },
+        "jumbotron3": {
+            "title1": "ASIX",
+            "title2": "",
+            "para1": "PT. ASIX Indonesia Cerdas",
+            "para2": "",
+            "link": "#",
+            "btcap": "Contact US"
+        }
+    },
+    "section": {
+        "section1": {
+            "title": "WHO WE ARE",
+            "desc": "ASIX is Indonesia's leading AI accelerator, a distinguished product of the strategic collabration between Sinarmas, the foremost Indonesian conglomerate, and China Mobile, The world's largest mobile telecommunications company",
+            "content1": {
+                "title" : "INNOVATE",
+                "desc" : "ASIX champions breakthrough solutions by nurturing innovative thinking, setting anew benchmark in AI-driven advancements within Indonesia's tech ecosystem."
+            },
+            "content2": {
+                "title" : "DISRUPT",
+                "desc" : "Embracing a bold approach, ASIX redefines industries by challenging traditional models and accelerating the adoption of AI to create pioneering shift across sectors."
+            },
+            "content3": {
+                "title" : "TRANSFORM",
+                "desc" : "ASIX drives comprehensive transformation, guiding companies to unlock new value throught AI-powered strategies that reshape business landscapes for sustainable growth."
+            }
+        },
+        "section1n5": {
+            "title": "AI",
+            "desc": "Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.",
+            "link": "#",
+            "textlink":"Read More"
+        },
+        "section2": {
+            "title": "Services",
+            "desc": "We provice AI solutions tailored to the unique needs of governments and enterprises. Our technology addresses complex issues, optimizes operations, and delives actionable insights across various sectors",
+            "content1": {
+                "title" : "Digital Twin City",
+                "desc" : "An advanced, virtual representation of a real city, designed to mirror its physical, social, and economic environments in real-time. Using data from IoT devices, sensors, and other digital infrastructure, a digital twin city continouously updates to reflect changes in the real world, allowing city planners, policymakers, and residents to monitor, analyze, and optimize ciy operations."
+            },
+            "content2": {
+                "title" : "Smart Hospitals",
+                "desc" : "A healthcare facility that leverages digital technology, data analytics, automation, and artificial intelligence (AI) to enhance patient care, streamline hospitas operations, and improve overall healthcare efficiency. By integrating IoT devices, electronic health records (EHRs), robotics, and smart infrastructure, a smart hospital creates a hightly connected environment where patient needs and hospital resources are managed in real time."
+            },
+            "content3": {
+                "title" : "Digital Factory",
+                "desc" : "A manufacturing facility that leverages digital technologies to optimize productuon processes, improve efficiency, and increase flexibility. By integrating advanced technologies such as IoT, AI, machine learning, and digital twins, a digital factory creates a connected and data-driven environment taht enchances decision-making and overall productivity."
+            },
+            "content4": {
+                "title" : "Digital Warehouse",
+                "desc" : "A faciliy that utilized advanced digital technologies to optimize the management, tracking, and distribution of goods, materials, or data. By integrating IoT, AI, robotics, and data analytics, digital storage solutions enhance efficiency, accuracy, and scalability in warehousing and inventory management."
+            }
+        },
+        "section3": {
+            "title": "",
+            "desc": "",
+            "content1": {
+                "title" : "Kebijakan Privasi",
+                "desc" : "Di Website ASIX, salah satu prioritas utama kami adalah privasi pengunjung kami. Dokumen Kebijakan Privasi ini berisi jenis informasi yang dikumpulkan dan dicatat oleh Website ASIX dan bagaimana kami menggunakannya. Jika Anda memiliki pertanyaan tambahan atau memerlukan informasi lebih lanjut tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami."
+            },
+            "content2": {
+                "title" : "File Log",
+                "desc" : "Website ASIX mengikuti prosedur standar penggunaan file log. File-file ini mencatat pengunjung ketika mereka mengunjungi situs web. Semua perusahaan hosting melakukan hal ini dan sebagian dari analitik layanan hosting. Informasi yang dikumpulkan oleh file log meliputi alamat protokol internet (IP), jenis browser, Penyedia Layanan Internet (ISP), tanggal dan waktu, halaman rujukan/keluar, dan mungkin jumlah klik. Ini tidak terkait dengan informasi yang dapat diidentifikasi secara pribadi. Tujuan dari informasi ini adalah untuk menganalisis tren, mengelola situs, melacak pergerakan pengguna di situs web, dan mengumpulkan informasi demografis. Kebijakan Privasi kami dibuat dengan bantuan Pembuat Kebijakan Privasi."
+            },
+            "content3": {
+                "title" : "Kebijakan Privasi",
+                "desc" : "Anda dapat berkonsultasi dengan daftar ini untuk menemukan Kebijakan Privasi untuk setiap mitra periklanan dari Website IPM. Server iklan pihak ketiga atau jaringan iklan menggunakan teknologi seperti cookie, JavaScript, atau Web Beacon yang digunakan dalam iklan dan tautan masing-masing dan dikirim langsung ke browser pengguna. Mereka secara otomatis menerima alamat IP Anda ketika ini terjadi. Teknologi ini digunakan untuk mengukur efektivitas kampanye periklanan mereka dan/atau untuk mempersonalisasi konten iklan yang Anda lihat di situs web yang Anda kunjungi. Perlu diingat bahwa Website IPM tidak memiliki akses atau kontrol atas cookie ini yang digunakan oleh pengiklan pihak ketiga."
+            },
+            "content4": {
+                "title" : "Kebijakan Privasi Pihak Ketiga",
+                "desc" : "Kebijakan Privasi Website ASIX tidak berlaku untuk pengiklan atau situs web lainnya. Oleh karena itu, kami menyarankan Anda untuk berkonsultasi dengan Kebijakan Privasi server iklan pihak ketiga yang bersangkutan untuk informasi lebih rinci. Ini mungkin termasuk praktik dan instruksi mereka tentang cara memilih keluar dari opsi tertentu. Anda dapat memilih untuk menonaktifkan cookie melalui opsi browser individu Anda. Untuk mengetahui informasi lebih rinci tentang pengelolaan cookie dengan browser web tertentu, dapat ditemukan di situs web masing-masing browser. Apa Itu Cookie?"
+            },
+            "content5": {
+                "title" : "Informasi Anak-Anak",
+                "desc" : "Bagian lain dari prioritas kami adalah menambahkan perlindungan untuk anak-anak saat menggunakan internet. Kami mendorong orang tua dan wali untuk mengamati, berpartisipasi, dan/atau memantau dan membimbing aktivitas online mereka. Website IPM tidak sengaja mengumpulkan Informasi Identifikasi Pribadi apa pun dari anak di bawah usia 13 tahun. Jika Anda berpikir bahwa anak Anda memberikan informasi semacam itu di situs web kami, kami sangat mendorong Anda untuk segera menghubungi kami dan kami akan melakukan upaya terbaik untuk segera menghapus informasi tersebut dari catatan kami."
+            },
+            "content6": {
+                "title" : "Kebijakan Privasi Online Saja",
+                "desc" : "Kebijakan Privasi ini hanya berlaku untuk aktivitas online kami dan berlaku untuk pengunjung situs web kami sehubungan dengan informasi yang mereka bagikan dan/atau kumpulkan di Website IPM. Kebijakan ini tidak berlaku untuk informasi apa pun yang dikumpulkan secara offline atau melalui saluran lain selain situs web ini."
+            },
+            "content7": {
+                "title" : "Persetujuan",
+                "desc" : "Dengan menggunakan situs web kami, Anda dengan ini menyetujui Kebijakan Privasi kami dan menyetujui Syarat dan Ketentuan kami."
+            }
+        },
+        "section4": {
+            "title": "Our Works",
+            "desc": "What we are proud of",
+            "menu": {
+                "m1" : {
+                    "filter": "*",
+                    "text" : "all"
+                },
+                "m2" : {
+                    "filter": ".websites",
+                    "text" : "websites"
+                },
+                "m3" : {
+                    "filter": ".webDesign",
+                    "text" : "web design"
+                },
+                "m4" : {
+                    "filter": ".appsDevelopment",
+                    "text" : "apps development"
+                },
+                "m5" : {
+                    "filter": ".GraphicDesign",
+                    "text" : "graphic design"
+                },
+                "m6" : {
+                    "filter": ".responsive",
+                    "text" : "responsive"
+                }
+            },
+            "pict": {
+                "p1": {
+                    "tag": "appsDevelopment",
+                    "src": "img/portfolio/p1.jpg",
+                    "ttl": "Skull Awesome",
+                    "sub": "Subtitle"
+                },
+                "p2": {
+                    "tag": "GraphicDesign",
+                    "src": "img/portfolio/p2.jpg",
+                    "ttl": "Photo Frame",
+                    "sub": "Subtitle"
+                },
+                "p3": {
+                    "tag": "responsive",
+                    "src": "img/portfolio/p3.jpg",
+                    "ttl": "Hand Shots",
+                    "sub": "Subtitle"
+                },
+                "p4": {
+                    "tag": "webDesign websites",
+                    "src": "img/portfolio/p4.jpg",
+                    "ttl": "Night Abstract",
+                    "sub": "Subtitle"
+                },
+                "p5": {
+                    "tag": "appsDevelopment websites",
+                    "src": "img/portfolio/p5.jpg",
+                    "ttl": "Joy of Independence",
+                    "sub": "Subtitle"
+                },
+                "p6": {
+                    "tag": "GraphicDesign",
+                    "src": "img/portfolio/p6.jpg",
+                    "ttl": "Night Crawlers",
+                    "sub": "Subtitle"
+                },
+                "p7": {
+                    "tag": "responsive",
+                    "src": "img/portfolio/p7.jpg",
+                    "ttl": "Last Motel",
+                    "sub": "Subtitle"
+                },
+                "p8": {
+                    "tag": "GraphicDesign",
+                    "src": "img/portfolio/p8.jpg",
+                    "ttl": "Dirk Road",
+                    "sub": "Subtitle"
+                },
+                "p9": {
+                    "tag": "websites",
+                    "src": "img/portfolio/p9.jpg",
+                    "ttl": "Old is Gold",
+                    "sub": "Subtitle"
+                }
+            }
+        },
+        "section5": {
+            "title":"Our Partners",
+            "desc": "Those who trust us",
+            "img": {
+                "ip1": "img/partners/ipm.png",
+                "ip2": "img/partners/1engage.png",
+                "ip3": "img/partners/SMPlus.png",
+                "ip4": "img/partners/moratel.png",
+                "ip5": "img/partners/CM.png"
+            }
+        },
+        "section6": {
+            "title":"Contacts",
+            "desc": "All to contact us",
+            "menu": {
+                "left": {
+                    "text" : "We're here to connect, collaborate, and create together. whether you're interested in our programs, partnership, opportunities, or just want to learn about ASIX, we'd love to hear from you!. Reach out to our team, and let's explore how we can drive innovation and transfromation in Indonesia's AI landscape.",
+                    "title": "Our Address",
+                    "address" :"&nbsp;Jl. H. Agus Salim No. 45 Lt.6, Menteng, Jakarta Pusat. 10540  ,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New World Tower New York ,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York, USA, 33148",
+                    "phone": "&nbsp; 0800000000000",
+                    "fax": "&nbsp;0800000000000",
+                    "mail": "&nbsp;contact@asix.id"
+                },
+                "right": {}
+            }
+        },
+        "section7": {
+            "title":"Join Us",
+            "desc": "Follow us on social networks",
+            "link": {
+                "lfb": "#",
+                "ltw": "#",
+                "lgo": "#",
+                "lpi": "#",
+                "ltu": "#",
+                "ldr": "#"
+            }
+        }
+    },
+    "footer": {
+        "left": {
+            "pict": "img/ASIX.jpg",
+            "text": "PT. ASIX Indonesia Cerdas"
+        },
+        "center":{
+            "title": "Useful Links",
+            "map" : {
+                "link1": {
+                    "link": "#",
+                    "text": "Home"
+                },
+                "link2": {
+                    "link": "#",
+                    "text": "About"
+                },
+                "link3": {
+                    "link": "#",
+                    "text": "Service"
+                },
+                "link4": {
+                    "link": "#",
+                    "text": "Contact Us"
+                }
+            }
+        },
+        "right":{
+            "title": "Subscribe",
+            "bt" : "Submit",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        "address": {
+            "ph": "0888 8888 8888",
+            "ma": "contact@asix.id",
+            "ad": "Jl. H. Agus Salin No.45 - Lt. 6 Menteng, Jakarta Pusat 10340"
+        },
+        "bott" : {
+            "copy": "Copyright © 2024 ASIX All Rights Reserved",
+            "tertext": "Terms and Conditions",
+            "terlink" : "#",
+            "privtext" : "Privacy Policy",
+            "privlink" : "#"
+        }
+    },
+    "copyright": {}
+}
